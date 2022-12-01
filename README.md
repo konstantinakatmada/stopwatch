@@ -2,15 +2,15 @@
 
 ## A stopwatch made using JavaScript. It forms part of a coding challenge for TPXImpact.
 
-#The Task 
+# The Task 
 
 ## For this task I created an HTML page with a functional stopwatch. The stopwatch is accurate.
 
 # User Stories
 
-## This stopwatch displauys to the user the current elapsed time in the following format 00:00:00:00 (hours, minutes, seconds, centiseconds)
+- [ ] This stopwatch displays to the user the current elapsed time in the following format 00:00:00:00 (hours, minutes, seconds, centiseconds)
 
-## The user can push a start button to start or continue a timer.
+- [ ] The user can push a start button to start or continue a timer.
 
 ## Ths user can push a pause button to pause the running timer.
 
@@ -30,5 +30,13 @@ Lap button: A button to write the time to a list/table of laps (this would not p
 ## No bugs or quirky behaviour
 
 ## Any build tools, instructions or other things you think a good project should include
+
+---
+
+## How to view this page
+
+You can use a live version of this timer by clicking at the GitHub page latest deployment at the right.
+Alternatively, save the repo locally and view all the folders and files by entering the command "git clone" followed by the url 
+of this repo at the CLI of your choice.
 
 
