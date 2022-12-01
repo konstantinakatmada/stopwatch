@@ -29,7 +29,7 @@
 
 * Clear lap history button: A button to clear any lap history
 
-* Make it look good 
+* Make it look good :sparkler:
 
 * No bugs or quirky behaviour
 
