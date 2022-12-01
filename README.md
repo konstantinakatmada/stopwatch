@@ -1,10 +1,10 @@
 # Stopwatch
 
-## A stopwatch made using JavaScript. It forms part of a coding challenge for TPXImpact.
+## A stopwatch made using JavaScript/ HTML. It forms part of a coding challenge for TPXImpact.
 
 # The Task 
 
-## For this task I created an HTML page with a functional stopwatch. The stopwatch is accurate.
+ For this task I created an HTML page with a functional stopwatch. The stopwatch is accurate.
 
 # User Stories
 
