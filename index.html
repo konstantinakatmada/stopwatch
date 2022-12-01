@@ -1,27 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>A Chronometer timepiece</title>
     <link rel="stylesheet" href="styles.css" />
-</head>
+  </head>
 
-<body>
+  <body>
     <div class="watch">
-        <div class="time">
-            00:00:00
-        </div>
-        <div class="controls">
-            <button id="start">Start</button>
-            <button id="stop">Stop</button>
-            <button id="reset">Reset</button>
-        </div>
+      <div class="time">00:00:00:00</div>
+      <div class="choices">
+        <button id="start">Start</button>
+        <button id="reset">Reset/Clear</button>
+        <button id="lap">Lap</button>
+        <button id="stop">Stop</button>
+      </div>
+    </div>
+    <div class="lapwrap">
+
+      <div id="laps">
+        <p id="lapRecord"></p>
+      </div>
     </div>
 
     <script src="script.js"></script>
-</body>
-
+  </body>
 </html>
