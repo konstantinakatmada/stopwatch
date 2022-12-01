@@ -25,15 +25,15 @@
 - [ ] The user can push the reset/ clear button to clear any lap history.
 
 ## Bonus points:
-Lap button: A button to write the time to a list/table of laps (this would not pause the timer). The results should be shown on screen and still be visible if the page is refreshed.
+* Lap button: A button to write the time to a list/table of laps (this would not pause the timer). The results should be shown on screen and still be visible if the page is refreshed.
 
-## Clear lap history button: A button to clear any lap history
+* Clear lap history button: A button to clear any lap history
 
-## Make it look good 
+* Make it look good 
 
-## No bugs or quirky behaviour
+* No bugs or quirky behaviour
 
-## Any build tools, instructions or other things you think a good project should include
+* Any build tools, instructions or other things you think a good project should include
 
 ---
 
