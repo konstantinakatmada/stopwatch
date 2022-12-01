@@ -18,10 +18,7 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 100vh;
-    min-width: 100vh;
     padding: 0;
-    background-position: center left;
-    overflow-y: hidden;
 }
 
 .watch {
@@ -30,25 +27,21 @@ body {
     width: 100%;
     max-width: 360px;
     margin: 4rem auto;
-    margin-bottom: 1rem;
     padding: 1rem 2rem;
     border-radius: 1rem;
-    position:relative; left:90px; top:2px;
-  
 }
 
 .watch .time {
     font-size: 5rem;
-	font-weight: 300;
-	margin-bottom: 1rem;
+    font-weight: 300;
+    margin-bottom: 1rem;
+    font-family: monospace;
 }
-
 
 .choices {
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 
 .choices button {
@@ -101,7 +94,7 @@ body {
     border-radius: 1rem;
    position:absolute;
    top: 0px;
-  left: 712px; 
+  left: 757px; 
   overflow-x: hidden; 
   justify-content: center;
   display: flex;
